@@ -4,7 +4,7 @@
   "description": "primer node",
   "main": "ejercicios.js",
   "scripts": {
-    "start": "node ejercicios.js"
+    "dev": "nodemon ejercicios.js"
   },
   "author": "",
   "license": "ISC",
