@@ -15,4 +15,4 @@ function ordenarArray(array) {
 }
 
 const numeros = [12, 5, 7, 1, -3, 8, 0];
-console.log(ordenarArray(numeros)); // RESPUESTA
+console.log(ordenarArray(numeros)); // Resultado

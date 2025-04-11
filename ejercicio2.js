@@ -20,4 +20,4 @@ function mayorYmenor(array){
 }
 
 const numeros = [12, 5, 7, 99, -3, 0, 18];
-console.log(mayorYmenor(numeros));
+console.log(mayorYmenor(numeros)); //Resultado
